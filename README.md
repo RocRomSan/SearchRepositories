@@ -19,6 +19,7 @@ SearchRepositories.py runserver
 ````
 
 Este sería el resultado.
+````
 +---------------------------------------+----------------------+----------+--------+
 |            Repository Name            |     Created Date     | Language | Stars  |
 +---------------------------------------+----------------------+----------+--------+
@@ -53,4 +54,4 @@ Este sería el resultado.
 |    swisskyrepo/PayloadsAllTheThings   | 2016-10-18T07:29:07Z |  Python  | 42079  |
 |            Textualize/rich            | 2019-11-10T15:28:09Z |  Python  | 40288  |
 +---------------------------------------+----------------------+----------+--------+
-
+````
